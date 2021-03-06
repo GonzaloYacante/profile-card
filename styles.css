@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.number-stats, .profile-name {
+    font-size: 1.8rem;
+    /* color: hsl(185, 75%, 39%); */
+    /* color: hsl(229, 23%, 23%); */
+}
+
+.name-stats, .profile-years, .profile-country {
+    color: hsl(227, 10%, 46%);
+}
